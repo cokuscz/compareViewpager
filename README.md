@@ -7,5 +7,5 @@ CompareViewPage
 展示
 =================
 
-![ ](/VID_7163.gif)
+![img](/VID-7163.gif)
 
